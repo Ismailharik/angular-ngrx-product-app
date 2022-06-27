@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "name": "Monitors",
+      "id": 2,
+      "price": 1000,
+      "quantity": 100,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Tele",
+      "price": 1400,
+      "quantity": 260,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 4,
+      "name": "Machine",
+      "price": 2000,
+      "quantity": 10,
+      "selected": true,
+      "available": false
+    },
+    {
+      "name": "Monitor",
+      "id": 5,
+      "price": 1450,
+      "quantity": 120,
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "redmi",
+      "price": "60",
+      "quantity": "100",
+      "selected": true,
+      "available": true,
+      "id": 6
+    },
+    {
+      "name": "mic",
+      "price": "123",
+      "quantity": "55",
+      "selected": true,
+      "available": false,
+      "id": 7
+    },
+    {
+      "name": "micro",
+      "price": "123",
+      "quantity": "55",
+      "selected": false,
+      "available": true,
+      "id": 8
+    },
+    {
+      "name": "ismail",
+      "price": "100000000000000",
+      "quantity": "1",
+      "selected": true,
+      "available": true,
+      "id": 9
+    },
+    {
+      "name": "pc",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 10
+    },
+    {
+      "name": "ww",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 11
+    }
+  ]
+}
